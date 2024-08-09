@@ -1,0 +1,10 @@
+fastapi
+loguru
+Pillow
+pipeit
+pydantic
+requests
+uvicorn
+onnxruntime
+tqdm
+funcaptcha_challenger
